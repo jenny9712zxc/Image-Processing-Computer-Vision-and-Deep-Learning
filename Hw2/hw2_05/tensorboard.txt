@@ -1,0 +1,5 @@
+https://colab.research.google.com/github/tensorflow/tensorboard/blob/master/docs/get_started.ipynb#scrollTo=WAQThq539CEJ
+
+tensorboard --logdir logs/fit
+
+http://localhost:6006/
